@@ -1,7 +1,7 @@
 {
   "name": "p5.web-serial",
   "version": "1.0.0",
-  "description": "A p5js library for using the Web Serial API to access devices like Arduino, no setup required",
+  "description": "A p5.js library for using the Web Serial API to access devices like Arduino, no setup required",
   "main": "p5.web-serial.js",
   "repository": {
     "type": "git",
