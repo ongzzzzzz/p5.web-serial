@@ -10,7 +10,6 @@
   "keywords": [
     "p5-library",
     "p5-js",
-    "p5.js",
     "p5js",
     "p5",
     "processing",
@@ -19,6 +18,7 @@
     "serialport",
     "physical-computing",
     "web-serial",
+    "web-serial-api",
     "javascript"
   ],
   "author": "ongzzzzzz",
